@@ -16,7 +16,7 @@ Paediatric Teledermatology is an innovative telemedicine platform designed to pr
 
 ## Technology Stack
 
-- **Frontend:** React Native, Tailwind CSS, for a responsive UI.
+- **Frontend:** React, Tailwind CSS, for a responsive UI.
 - **Backend:** Node.js (Express) for building RESTful APIs.
 - **Database:** MySQL for secure data storage.
 - **Cloud Storage:** Azure for managing and storing uploaded images.
